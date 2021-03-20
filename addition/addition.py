@@ -1,4 +1,5 @@
 def doaddition(a,b):
+    #addition operation
     sum=a+b
     print(sum)
 a=10
