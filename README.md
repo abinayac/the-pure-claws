@@ -1,2 +1,8 @@
+
 the-pure-claws
-multiplication done
+multiplication do
+subtraction file added
+the-pure-claws
+addition operation
+
+
